@@ -3,6 +3,6 @@ import json
 
 api_key = "xxxxxx"
 
-def get_weather(city):
+def get_weather_of(city):
   
   
